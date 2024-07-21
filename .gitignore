@@ -1,0 +1,20 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional IDE files
+.idea/
+.vscode/
+package-lock.json
+package.json
